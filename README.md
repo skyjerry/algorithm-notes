@@ -3,11 +3,11 @@
 ### 2021-02-23
 #### Binary Search
 - [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-22/sqrtx.go?ts=4)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-23/sqrtx.go?ts=4)
 - [x] [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-22/guess-number-higher-or-lower.go?ts=4)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-23/guess-number-higher-or-lower.go?ts=4)
 - [x] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-22/first-bad-version.go?ts=4)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-23/first-bad-version.go?ts=4)
 
 
 ### 2021-02-22
