@@ -3,14 +3,14 @@
 ### 2021-02-24
 #### Binary Search
 - [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/find-first-and-last-position-of-element-in-sorted-array.go.go?ts=4)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/find-first-and-last-position-of-element-in-sorted-array.go?ts=4)
 - [x] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/median-of-two-sorted-arrays.go?ts=4)
 - [x] [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/search-a-2d-matrix.go?ts=4)
 - [x] [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/find-peak-element.gp?ts=4)
-- [x] [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n.go/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/find-peak-element.go?ts=4)
+- [x] [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/powx-n.go?ts=4)
 - [x] [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-24/search-insert-position.go?ts=4)
