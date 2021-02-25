@@ -26,7 +26,8 @@
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/binary-tree-level-order-traversal.go?ts=4)
 - [x] [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/binary-tree-level-order-traversal-ii.go?ts=4)
-
+- [x] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/insert-into-a-binary-search-tree.go?ts=4)
 
 ### 2021-02-24
 #### Binary Search
