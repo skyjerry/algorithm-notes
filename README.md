@@ -1,5 +1,29 @@
 # algorithm-notes
 
+### 2021-02-25
+#### Tree
+- [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/lowest-common-ancestor-of-a-binary-search-tree.go?ts=4)
+- [x] [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/lowest-common-ancestor-of-a-binary-tree.go?ts=4)
+- [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/binary-tree-preorder-traversal.go?ts=4)
+- [x] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/binary-tree-inorder-traversal.go?ts=4)
+- [x] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/binary-tree-postorder-traversal.go?ts=4)
+- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/symmetric-tree.go?ts=4)
+- [x] [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/same-tree.go?ts=4)
+- [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/maximum-depth-of-binary-tree.go?ts=4)
+- [x] [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/binary-tree-maximum-path-sum.go?ts=4)
+- [x] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-25/balanced-binary-tree.go?ts=4)
+
+
 ### 2021-02-24
 #### Binary Search
 - [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
