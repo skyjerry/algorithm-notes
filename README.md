@@ -8,9 +8,9 @@
 - [x] [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-26/number-of-islands.go?ts=4)
 - [x] [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-26/path-sum-ii.go?ts=4)
-- [x] [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-26/path-sum.go?ts=4)
+- [x] [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-26/path-sum-ii.go?ts=4)
 - [x] [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-26/sum-root-to-leaf-numbers.go?ts=4)
 
