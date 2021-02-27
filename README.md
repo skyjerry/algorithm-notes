@@ -15,7 +15,7 @@
 - [x] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-27/add-two-numbers.go?ts=4)
 - [x] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists.go/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-27/intersection-of-two-linked-lists.go.go?ts=4)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-27/intersection-of-two-linked-lists.go?ts=4)
 
 
 
