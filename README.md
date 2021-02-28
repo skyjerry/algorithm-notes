@@ -12,8 +12,8 @@
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-28/reverse-linked-list-ii.go?ts=4)
 - [x] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-28/remove-duplicates-from-sorted-list.go?ts=4)
-- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/palindrome-linked-list-ii/)
-* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-28/palindrome-linked-list-ii.go?ts=4)
+- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-28/remove-duplicates-from-sorted-list-ii.go?ts=4)
 
 
 
