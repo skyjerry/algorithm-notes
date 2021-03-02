@@ -1,7 +1,7 @@
 # algorithm-notes
 
 ### 2021-03-02
-#### Two Pointers
+#### Two Pointers | String
 - [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-02/longest-substring-without-repeating-characters.go?ts=4)
 
