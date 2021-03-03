@@ -1,4 +1,15 @@
 # algorithm-notes
+### 2021-03-03
+#### Two Pointers
+- [x] [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-03/reverse-string.go?ts=4)
+#### Two Pointers
+- [x] [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-03/merge-sorted-array.go?ts=4)
+#### Two Pointers
+- [x] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-03/3sum.go?ts=4)
+
 
 ### 2021-03-02
 #### Two Pointers | String
