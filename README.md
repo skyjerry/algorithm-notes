@@ -1,5 +1,10 @@
 # algorithm-notes
 
+### 2021-03-06
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-06/maximum-subarray.go?ts=4)
+
+
 ### 2021-03-05
 - [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-05/lru-cache.go?ts=4)
