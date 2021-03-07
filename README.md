@@ -1,5 +1,10 @@
 # algorithm-notes
 
+### 2021-03-07
+- [x] [62. 不同路径](https://leetcode-cn.com/problems/unique-paths.go/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-07/unique-paths.go?ts=4)
+
+
 ### 2021-03-06
 - [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-06/maximum-subarray.go?ts=4)
