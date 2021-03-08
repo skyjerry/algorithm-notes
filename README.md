@@ -1,11 +1,21 @@
 # algorithm-notes
 
+### 2021-03-08
+#### DP
+- [x] [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-08/unique-paths-ii.go?ts=4)
+- [x] [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-08/longest-increasing-subsequence.go?ts=4)
+
+
 ### 2021-03-07
-- [x] [62. 不同路径](https://leetcode-cn.com/problems/unique-paths.go/)
+#### DP
+- [x] [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-07/unique-paths.go?ts=4)
 
 
 ### 2021-03-06
+#### DP
 - [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-06/maximum-subarray.go?ts=4)
 
