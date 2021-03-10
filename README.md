@@ -1,5 +1,12 @@
 # algorithm-notes
 
+### 2021-03-10
+#### DP
+- [x] [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-10/minimum-path-sum.go?ts=4)
+
+
+
 ### 2021-03-08
 #### DP
 - [x] [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
