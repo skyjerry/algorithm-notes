@@ -1,5 +1,14 @@
 # algorithm-notes
 
+### 2021-03-11
+#### DP
+- [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-11/jump-game.go?ts=4)
+
+- [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-11/climbing-stairs.go?ts=4)
+
+
 ### 2021-03-10
 #### DP
 - [x] [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
