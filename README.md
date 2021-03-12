@@ -1,5 +1,15 @@
 # algorithm-notes
 
+
+### 2021-03-12
+#### Greedy
+- [x] [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-II/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-12/jump-game-II.go?ts=4)
+#### DP
+- [x] [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-12/word-break.go?ts=4)
+
+
 ### 2021-03-11
 #### DP
 - [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
