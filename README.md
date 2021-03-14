@@ -2,6 +2,12 @@
 
 ### 2021-03-13
 #### DP
+- [x] [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-14/edit-distance.go?ts=4)
+
+
+### 2021-03-13
+#### DP
 - [x] [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-13/longest-common-subsequence.go?ts=4)
 
