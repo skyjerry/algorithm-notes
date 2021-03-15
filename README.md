@@ -1,5 +1,12 @@
 # algorithm-notes
 
+
+### 2021-03-15
+#### DP
+- [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-15/best-time-to-buy-and-sell-stock.go?ts=4)
+
+
 ### 2021-03-13
 #### DP
 - [x] [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
