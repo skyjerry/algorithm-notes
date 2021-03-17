@@ -1,5 +1,14 @@
 # algorithm-notes
 
+
+### 2021-03-17
+#### DP
+- [x] [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-17/best-time-to-buy-and-sell-stock-with-transaction-fee.go?ts=4)
+- [x] [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-17/best-time-to-buy-and-sell-stock-with-cooldown.go?ts=4)
+
+
 ### 2021-03-16
 #### DP
 - [x] [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
