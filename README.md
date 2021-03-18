@@ -1,9 +1,10 @@
 # algorithm-notes
 
 ### 2021-03-18
-#### DP
+#### Array
 - [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-18/rotate-array.go?ts=4)
+#### DP
 - [x] [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-18/ugly-number-ii.go?ts=4)
 
