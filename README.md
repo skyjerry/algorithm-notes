@@ -1,5 +1,14 @@
 # algorithm-notes
 
+### 2021-03-19
+#### Stack
+- [x] [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-19/min-stack.go?ts=4)
+#### Sort
+- [x] [快速排序](https://leetcode-cn.com/problems/quick-sort/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-19/quick-sort.go?ts=4)
+
+
 ### 2021-03-18
 #### Array
 - [x] [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
