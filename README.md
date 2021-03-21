@@ -1,6 +1,19 @@
 # algorithm-notes
 
 
+### 2021-03-21
+#### Review Tree
+- [x] [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-21/binary-tree-zigzag-level-order-traversal.go?ts=4)
+- [x] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-21/validate-binary-search-tree.go?ts=4)
+- [x] [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-21/lowest-common-ancestor-of-a-binary-search-tree.go?ts=4)
+- [x] [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-21/lowest-common-ancestor-of-a-binary-tree.go?ts=4)
+
+
+### 2021-03-20
 #### Review Binary Search
 - [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-20/search-in-rotated-sorted-array.go?ts=4)
@@ -267,6 +280,7 @@
 - [x] [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-II/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-22/find-minimum-in-rotated-sorted-array-II.go?ts=4)
 
+
 #### Linked List
 - [x] [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-22/reverse-nodes-in-k-group.go?ts=4)
@@ -276,6 +290,7 @@
 #### Tree
 - [x] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-21/validate-binary-search-tree.go?ts=4)
+
 
 #### Binary Search
 - [x] [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
