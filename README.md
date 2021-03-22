@@ -1,5 +1,17 @@
 # algorithm-notes
 
+### 2021-03-22
+#### Review Tree
+- [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-22/binary-tree-preorder-traversal.go?ts=4)
+- [x] [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-22/binary-tree-inorder-traversal.go?ts=4)
+- [x] [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-22/binary-tree-postorder-traversal.go?ts=4)
+- [x] [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-22/symmetric-tree.go?ts=4)
+- [x] [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-22/same-tree.go?ts=4)
 
 ### 2021-03-21
 #### Review Tree
