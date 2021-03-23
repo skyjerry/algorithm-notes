@@ -1,5 +1,17 @@
 # algorithm-notes
 
+### 2021-03-23
+#### Review Tree
+- [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-23/maximum-depth-of-binary-tree.go?ts=4)
+- [x] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-23/balanced-binary-tree.go?ts=4)
+- [x] [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-23/binary-tree-level-order-traversal.go?ts=4)
+- [x] [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-23/binary-tree-level-order-traversal-ii.go?ts=4)
+
+
 ### 2021-03-22
 #### Review Tree
 - [x] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
