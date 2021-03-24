@@ -2,6 +2,17 @@
 
 ### 2021-03-23
 #### Review Tree
+- [x] [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-24/binary-tree-maximum-path-sum.go?ts=4)
+- [x] [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-24/construct-binary-tree-from-preorder-and-inorder-traversal.go?ts=4)
+- [x] [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-24/insert-into-a-binary-search-tree.go?ts=4)
+
+
+
+### 2021-03-23
+#### Review Tree
 - [x] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-23/maximum-depth-of-binary-tree.go?ts=4)
 - [x] [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
