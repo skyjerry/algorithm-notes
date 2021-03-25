@@ -1,6 +1,24 @@
 # algorithm-notes
 
-### 2021-03-23
+### 2021-03-25
+#### Linked List
+- [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/reverse-linked-list.go?ts=4)
+- [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/linked-list-cycle.go?ts=4)
+- [x] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/linked-list-cycle-ii.go?ts=4)
+- [x] [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/merge-two-sorted-lists.go?ts=4)
+- [x] [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/remove-nth-node-from-end-of-list.go?ts=4)
+- [x] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/add-two-numbers.go?ts=4)
+- [x] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/intersection-of-two-linked-lists.go?ts=4)
+
+
+### 2021-03-24
 #### Review Tree
 - [x] [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-24/binary-tree-maximum-path-sum.go?ts=4)
@@ -232,7 +250,7 @@
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-27/remove-nth-node-from-end-of-list.go?ts=4)
 - [x] [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-27/add-two-numbers.go?ts=4)
-- [x] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists.go/)
+- [x] [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-02-27/intersection-of-two-linked-lists.go?ts=4)
 
 
