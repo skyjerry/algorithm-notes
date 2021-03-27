@@ -1,5 +1,19 @@
 # algorithm-notes
 
+### 2021-03-27
+#### Linked List
+- [x] [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-27/sort-list.go?ts=4)
+- [x] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-27/merge-k-sorted-lists.go?ts=4)
+- [x] [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-27/palindrome-linked-list.go?ts=4)
+- [x] [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-27/remove-duplicates-from-sorted-list.go?ts=4)
+- [x] [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-27/remove-duplicates-from-sorted-list-ii.go?ts=4)
+
+
 ### 2021-03-25
 #### Linked List
 - [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
