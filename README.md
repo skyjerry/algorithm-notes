@@ -1,7 +1,19 @@
 # algorithm-notes
 
+### 2021-03-28
+#### Review Linked List
+- [x] [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+* [source code](./2021-03-28/odd-even-linked-list.go?ts=4)
+- [x] [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+* [source code](./2021-03-28/reorder-list.go?ts=4)
+- [x] [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+* [source code](./2021-03-28/copy-list-with-random-pointer.go?ts=4)
+- [x] [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)
+* [source code](./2021-03-28/partition-list.go?ts=4)
+
+
 ### 2021-03-27
-#### Linked List
+#### Review Linked List
 - [x] [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-27/sort-list.go?ts=4)
 - [x] [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
@@ -15,7 +27,7 @@
 
 
 ### 2021-03-25
-#### Linked List
+#### Review Linked List
 - [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 * [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-25/reverse-linked-list.go?ts=4)
 - [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
