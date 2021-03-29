@@ -1,5 +1,19 @@
 # algorithm-notes
 
+### 2021-03-29
+#### Review Binary Search
+- [x] [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-29/sqrtx.go?ts=4)
+- [x] [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-29/guess-number-higher-or-lower.go?ts=4)
+- [x] [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-29/first-bad-version.go?ts=4)
+- [x] [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-29/find-first-and-last-position-of-element-in-sorted-array.go?ts=4)
+- [x] [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+* [source code](https://github.com/zaynme/algorithm-notes/blob/main/2021-03-29/search-a-2d-matrix.go?ts=4)
+
+
 ### 2021-03-28
 #### Review Linked List
 - [x] [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
