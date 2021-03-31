@@ -1,5 +1,17 @@
 # algorithm-notes
 
+### 2021-03-31
+#### Review Binary Search
+- [x] [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+* [source code](./2021-03-31/median-of-two-sorted-arrays.go?ts=4)
+- [x] [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
+* [source code](./2021-03-31/find-peak-element.go?ts=4)
+- [x] [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+* [source code](./2021-03-31/powx-n.go?ts=4)
+- [x] [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+* [source code](./2021-03-31/search-insert-position.go?ts=4)
+
+
 ### 2021-03-30
 #### Review DFS/BFS
 - [x] [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
