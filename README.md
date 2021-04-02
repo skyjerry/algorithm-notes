@@ -1,5 +1,15 @@
 # algorithm-notes
 
+### 2021-04-02
+#### Review Two Pointers
+- [x] [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+* [source code](./2021-04-02/reverse-string.go?ts=4)
+- [x] [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+* [source code](./2021-04-02/merge-sorted-array.go?ts=4)
+- [x] [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+* [source code](./2021-04-02/3sum.go?ts=4)
+
+
 ### 2021-04-01
 #### Review Two Pointers
 - [x] [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
