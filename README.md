@@ -1,5 +1,15 @@
 # algorithm-notes
 
+### 2021-04-03
+### Review Design
+- [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+* [source code](./2021-04-03/lru-cache.go?ts=4)
+#### Review Two Pointers
+- [x] [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+* [source code](./2021-04-03/container-with-most-water.go?ts=4)
+
+
+
 ### 2021-04-02
 #### Review Two Pointers
 - [x] [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
