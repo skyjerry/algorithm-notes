@@ -1,6 +1,5 @@
 // Leetcode 300. 最长递增子序列
 
-
 // Space: O(n), Time: O(n^2)
 func lengthOfLIS(nums []int) int {
     n := len(nums)
@@ -36,7 +35,7 @@ func lengthOfLIS(nums []int) int {
 
 	for i := 0; i < n; i++ {
 		l, r := 0, size
-		for l != r {
+		for l < r {
 			mid := l + (r - l) >> 1
 			if tails[mid] < nums[i] {
 				l = mid + 1

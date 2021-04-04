@@ -1,5 +1,17 @@
 # algorithm-notes
 
+### 2021-04-04
+#### Review DP
+- [x] [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+* [source code](./2021-04-04/unique-paths.go?ts=4)
+- [x] [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
+* [source code](./2021-04-04/unique-paths-ii.go?ts=4)
+- [x] [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+* [source code](./2021-04-04/longest-increasing-subsequence.go?ts=4)
+- [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)
+* [source code](./2021-04-04/maximum-subarray.go?ts=4)
+
+
 ### 2021-04-03
 ### Review Design
 - [x] [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
