@@ -1,5 +1,17 @@
 # algorithm-notes
 
+### 2021-04-05
+#### DP
+- [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+* [source code](./2021-04-05/jump-game.go?ts=4)
+- [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+* [source code](./2021-04-05/climbing-stairs.go?ts=4)
+- [x] [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [source code](./2021-04-05/minimum-path-sum.go?ts=4)
+- [x] [42. 接雨水](https://leetcode-cn.com/problems/minimum-path-sum/)
+* [source code](./2021-04-05/trapping-rain-water.go?ts=4)
+
+
 ### 2021-04-04
 #### Review DP
 - [x] [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
