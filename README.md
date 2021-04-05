@@ -1,7 +1,7 @@
 # algorithm-notes
 
 ### 2021-04-05
-#### DP
+#### Review DP
 - [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
 * [source code](./2021-04-05/jump-game.go?ts=4)
 - [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
