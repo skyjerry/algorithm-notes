@@ -8,7 +8,7 @@
 * [source code](./2021-04-05/climbing-stairs.go?ts=4)
 - [x] [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
 * [source code](./2021-04-05/minimum-path-sum.go?ts=4)
-- [x] [42. 接雨水](https://leetcode-cn.com/problems/minimum-path-sum/)
+- [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 * [source code](./2021-04-05/trapping-rain-water.go?ts=4)
 
 
