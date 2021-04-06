@@ -1,7 +1,7 @@
 # algorithm-notes
 
 ### 2021-04-06
-#### DP
+#### Review DP
 - [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 * [source code](./2021-04-06/best-time-to-buy-and-sell-stock.go?ts=4)
 
