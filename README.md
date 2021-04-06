@@ -1,5 +1,11 @@
 # algorithm-notes
 
+### 2021-04-06
+#### DP
+- [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+* [source code](./2021-04-06/best-time-to-buy-and-sell-stock.go?ts=4)
+
+
 ### 2021-04-05
 #### Review DP
 - [x] [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
