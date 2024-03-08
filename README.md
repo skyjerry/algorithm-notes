@@ -1,5 +1,12 @@
 # algorithm-notes
 
+### 2024-03-08
+#### Review Linked List | Two Pointers
+- [x] [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+* [source code](./2024-03-08/linked-list-cycle.go?ts=4)
+- [x] [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+* [source code](./2024-03-08/linked-list-cycle-ii.go?ts=4)
+
 ### 2024-03-05
 #### Review Linked List
 - [x] [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
